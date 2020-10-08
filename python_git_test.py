@@ -8,3 +8,6 @@ Created on Thu Oct  8 07:58:42 2020
 # Class 20201008 Programming Fundamentals
 
 print("good morning Chris")
+
+def func(a, b):
+    return a + b
