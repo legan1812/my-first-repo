@@ -10,7 +10,7 @@ Created on Thu Oct  8 07:58:42 2020
 print("good morning Chris")
 
 def func(a, b):
-    return a * b
+    return a + b
 
 
 print("Welcome back!")
